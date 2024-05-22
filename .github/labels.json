@@ -61,6 +61,13 @@
         "aliases": [],
         "description": "作業中",
         "delete": false
+    },
+    {
+        "name": "hoge",
+        "color": "fef2c0",
+        "aliases": [],
+        "description": "作業中",
+        "delete": false
     }
 
   ]
