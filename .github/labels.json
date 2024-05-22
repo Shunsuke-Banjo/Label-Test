@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Bug",
+        "color": "FC2C2B",
+        "aliases": [],
+        "description": "バグ",
+        "delete": false
+    },
+    {
+        "name": "Feature",
+        "color": "0E4BDB",
+        "aliases": [],
+        "description": "機能追加",
+        "delete": false
+    },
+    {
+        "name": "Refactor",
+        "color": "AFD38D",
+        "aliases": [],
+        "description": "リファクタリング",
+        "delete": false
+        },
+    {
+        "name": "Performance",
+        "color": "F2A918",
+        "aliases": [],
+        "description": "パフォーマンスの改善",
+        "delete": false
+    },
+    {
+        "name": "Design",
+        "color": "f8e58c",
+        "aliases": [],
+        "description": "UIの変更のみ",
+        "delete": false
+    },
+    {
+        "name": "Other",
+        "color": "c8c8c8",
+        "aliases": [],
+        "description": "その他雑多なもの",
+        "delete": false
+    },
+    {
+        "name": "hurry",
+        "color": "f91e08",
+        "aliases": [],
+        "description": "急いで見てほしい",
+        "delete": false
+    },
+    {
+        "name": "anytime",
+        "color": "c0dfc7",
+        "aliases": [],
+        "description": "お手すきで",
+        "delete": false
+    },
+    {
+        "name": "WIP",
+        "color": "fef2c0",
+        "aliases": [],
+        "description": "お手すきで",
+        "delete": false
+    }
+
+  ]
