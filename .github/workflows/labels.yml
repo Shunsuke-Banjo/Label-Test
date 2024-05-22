@@ -3,7 +3,7 @@ name: Update Labels
 on:
   pull_request:
     branches: [ main ]
-    types: [closed]
+        types: [closed]
 
     
 jobs:
@@ -16,4 +16,4 @@ jobs:
     - name: Install dependencies
       run: yarn add -D @azu/github-label-setup
     - name: update label
-      run: yarn github-label-setup --token ${{ secrets.GITHUB_TOKEN }} --labels .github/labels.json
+      run: yarn github-label-setup --token ${{ secrets.PERSONAL_ACCESS_TOKEN_FOR_LABELS }} --labels .github/labels.json
